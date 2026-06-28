@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **manansoh2020@gmail.com.com** For Collaboration/Project or
 - 🌱 **I’m currently learning:** NUMPY, Flutter
 - 👯 **I’m looking to collaborate on:** UI/UX designs 
 - 🤔 **I’m looking for help with:** Chatbot
-- 💬 **Ask me about:** Mobile App development,Pyton ,C++ ,SQl ,UI/UX
+- 💬 **Ask me about:** Mobile App development,Python ,C++ ,SQl ,UI/UX
 - 📫 **How to reach me:** manansoh2020@gmail.com
 - 😄 **Pronouns:** Manan 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me

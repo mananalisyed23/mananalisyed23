@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **manansoh2020@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Super App university project, Computer Science teaching
-- 🌱 **I’m currently learning:** NUMPY, Flutter
+- 🌱 **I’m currently learning:** NUMPY, Flutter ,PyThON , Pandas
 - 👯 **I’m looking to collaborate on:** UI/UX designs 
 - 🤔 **I’m looking for help with:** Chatbot
 - 💬 **Ask me about:** Mobile App development,Python ,C++ ,SQl ,UI/UX
